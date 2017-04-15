@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Creas.Entities.EntityBase">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EntityBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreaS.Entities.EntityCreaBase&lt;TContext&gt;">
+    <Position X="3" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Class Name="CreaS.Entities.EntityCreaBase&lt;TContext&gt;.StateRestoredEventArgs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EntityCreasBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACgMAAIgAAAAACAAAAAAgAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>EntityCreasBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -44,6 +44,15 @@
     <Compile Include="EntityCreasBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Creas.StateForge.StateMachine\Creas.StateForge.StateMachine.csproj">
+      <Project>{ee254c42-2303-4af6-8ee7-83bfc1e9f85d}</Project>
+      <Name>Creas.StateForge.StateMachine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CreaBaseDiagram.cd" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

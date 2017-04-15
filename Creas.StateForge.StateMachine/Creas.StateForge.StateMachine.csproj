@@ -41,7 +41,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StateForge\Context.cs" />
+    <Compile Include="StateForge\ContextAsync.cs" />
+    <Compile Include="StateForge\ContextParallel.cs" />
+    <Compile Include="StateForge\Event.cs" />
+    <Compile Include="StateForge\IContext.cs" />
+    <Compile Include="StateForge\IObserver.cs" />
+    <Compile Include="StateForge\ObserverConsole.cs" />
+    <Compile Include="StateForge\ObserverNull.cs" />
+    <Compile Include="StateForge\ObserverTrace.cs" />
+    <Compile Include="StateForge\State.cs" />
+    <Compile Include="StateForge\StateMachine.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

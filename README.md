@@ -10,9 +10,9 @@ Many (if not all :( ) software development environment are based on a "problem s
 CreAS would like to maintain an orientation of the creative while designing the process guidance (software) that will guide the creation of the desired result in mind by its users.  Pretty much as if the Software is a creation in itself that should be transparent to whom is using it and should guide its users staying creatively oriented (meaning in a nutshell to have them focus on the results they want and an observation of the evolving realities in relationship to that results).
 CreAS should help technology creators to, themselves, stay creatively oriented.
 
-Resume of the Key points.
+## Resume of the Key points.
 # Transparent Technology
-## Creative Orientation
+# Creative Orientation
 # Guide its user toward creating results
 # Guide its user toward observing reality in relationship to these results
 
@@ -20,7 +20,7 @@ Resume of the Key points.
 Why a State Machine based.  
 Simply because when we create, it is very recommended practice to ""envision"" a [[desired state]], therefore, it is our belief that this state has to start from an orignal one, the reality, and evolve to the desired state (the creation).
 
-State Key Points
+## State Key Points
 # Original State - Reality
 # Desired State - Vision (Creation)
 

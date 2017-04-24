@@ -11,17 +11,17 @@ CreAS would like to maintain an orientation of the creative while designing the 
 CreAS should help technology creators to, themselves, stay creatively oriented.
 
 ## Resume of the Key points.
-# Transparent Technology
-# Creative Orientation
-# Guide its user toward creating results
-# Guide its user toward observing reality in relationship to these results
+### Transparent Technology
+### Creative Orientation
+### Guide its user toward creating results
+### Guide its user toward observing reality in relationship to these results
 
 ----
 Why a State Machine based.  
 Simply because when we create, it is very recommended practice to ""envision"" a [[desired state]], therefore, it is our belief that this state has to start from an orignal one, the reality, and evolve to the desired state (the creation).
 
 ## State Key Points
-# Original State - Reality
-# Desired State - Vision (Creation)
+### Original State - Reality
+### Desired State - Vision (Creation)
 
 

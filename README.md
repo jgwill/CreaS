@@ -1,4 +1,4 @@
-## Welcome to CReaS Pages
+## Welcome to Project CReaS
 
 The Project is in the inception phase.
 ------

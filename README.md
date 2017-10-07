@@ -12,6 +12,7 @@ CreAS should help technology creators to, themselves, stay creatively oriented.
 
 ## Resume of the Key points.
 ### Transparent Technology
+#### Along the creation of the peace of software that is going to assist us in creating the result we want, we want that process of making the apps+service to be transparent. What does that mean anyway? Simply that the momentum from start to completion should always cumulate, like when we create art.  The more we have completed action steps, the more we get closer, the more ""propency"" toward movement there is (it is easier to move, it just flows...).  To achieve such agilities in our creative process when making software, all our roles from architect, developer (or whatever you call yourself ;) ) have to have a creative orientation. 
 ### Creative Orientation
 ### Guide its user toward creating results
 ### Guide its user toward observing reality in relationship to these results

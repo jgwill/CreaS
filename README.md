@@ -1,10 +1,16 @@
+
+# DEPRECATION NOTICE
+I am going to deprecate that project as it will be replaced by new concepts based on my work with Robert Fritz.
+
+___
+
+___
+
+
 ## Welcome to Project CReaS
 
 The Project is in the inception phase.
 ------
-
-# DEPRECATION NOTICE
-I am going to deprecate that project as it will be replaced by new concepts based on my work with Robert Fritz.
 
 ___
 CreaS is a State Machine library created using the Priciples of the Creative Process.

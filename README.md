@@ -3,6 +3,10 @@
 The Project is in the inception phase.
 ------
 
+# DEPRECATION NOTICE
+I am going to deprecate that project as it will be replaced by new concepts based on my work with Robert Fritz.
+
+___
 CreaS is a State Machine library created using the Priciples of the Creative Process.
 
 Many (if not all :( ) software development environment are based on a "problem solving" orientation  (or the thinking in mind of their creator was not oriented to the creative), therefore, when you want to create results, you often are reoriented to problems solving caused by the root thinking used when creating the original framework.
